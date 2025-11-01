@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-nav_order: 1
+exclude_from_nav: true
 ---
 #### Hello! Welcome to my little website.
 Here are my latest posts:
