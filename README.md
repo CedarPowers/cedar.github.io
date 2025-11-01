@@ -7,5 +7,5 @@
 ![Imagine there's a project here]<>
 
 <h3>Contact</h3>
-[Email]<cedarmpowers@gmail.com><br>
-[LinkedIn]<https://www.linkedin.com/in/cedarpowers>
+[Email](cedarmpowers@gmail.com)<br>
+[LinkedIn](https://www.linkedin.com/in/cedarpowers)
