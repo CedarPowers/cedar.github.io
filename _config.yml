@@ -2,8 +2,9 @@ theme: minima
 title: Cedar's Page
 author: Cedar Powers
 email: cedarmpowers@gmail.com
-description: A small sample of what I get up to! 
-This site is created and maintained by Cedar Powers.
+description: | 
+  A small sample of what I get up to! 
+  This site is created and maintained by Cedar Powers.
 linkedin_username: cedarpowers
 github_username: CedarPowers
 
