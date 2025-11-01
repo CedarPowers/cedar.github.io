@@ -1,3 +1,17 @@
 theme: minima
 title: Cedar's Page
 description: Here's what I get up to!
+author:
+  name: Cedar Powers
+  email: "cedarmpowers@gmail.com"
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/CedarPowers"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/cedarpowers"
+  nav_pages:
+    - about.md
+    - projects.md
