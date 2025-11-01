@@ -1,5 +1,5 @@
-<h1>Cedar's Page</h1>
-Cedar Powers
+<center><h1>Cedar's Page</h1></center>
+
 
 <h3>About Me</h3>
 
