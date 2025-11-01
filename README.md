@@ -1,14 +1,3 @@
-<center><h1>Cedar's Page</h1></center>
-
-
-<h3>About Me</h3>
-Hello! 
-<cedarpowers.github.io/about>
-
-<h3>Projects </h3>
-<h5>Imaginary Project!!</h5>
-![Imagine there's a project here]<cedarpowers.github.io>
-
-<h3>Contact</h3>
-[Email](cedarmpowers@gmail.com)<br>
-[LinkedIn](https://www.linkedin.com/in/cedarpowers)
+<center><h4>Hello!</h4></center>
+Welcome to my little website. <br>
+Navigate using the above menu to take a look at my past projects and other info!
