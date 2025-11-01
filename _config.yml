@@ -10,6 +10,6 @@ github_username: CedarPowers
 minima:
   skin: classic
   nav_pages:
-    - portfolio.md
-    - about.md
+    - 01_portfolio.md
+    - 02_about.md
 
