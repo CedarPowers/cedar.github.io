@@ -1,5 +1,5 @@
 layout: page
-title: "Projects"
+title: "Portfolio"
 permalink: /portfolio
 
 projects will be here ... eventually
