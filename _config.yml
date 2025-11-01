@@ -1,9 +1,7 @@
 theme: minima
 title: Cedar's Page
 description: Here's what I get up to!
-author:
-  name: Cedar Powers
-  email: "cedarmpowers@gmail.com"
+
 minima:
   social_links:
     - title: GitHub
@@ -15,3 +13,7 @@ minima:
   nav_pages:
     - about.md
     - projects.md
+
+author:
+  name: Cedar Powers
+  email: "cedarmpowers@gmail.com"
