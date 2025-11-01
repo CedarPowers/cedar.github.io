@@ -2,7 +2,7 @@
 layout: page
 title: "About Me"
 permalink: /about
-order: 3
+nav-order: 3
 ---
 
 . . .
