@@ -5,5 +5,3 @@ permalink: /about
 ---
 
 . . .
-
-[Contact]<cedarpowers.github.io/contact>
